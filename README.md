@@ -131,5 +131,3 @@ loaded_model = SentimentAnalysis.load_model()
 ```
 
 ---
-
-This documentation provides a comprehensive guide on the purpose, usage, and functionality of the Sentiment Analysis Library. Users can refer to this document to understand how to use the library and its various features. Adjustments can be made based on specific documentation standards or requirements.
